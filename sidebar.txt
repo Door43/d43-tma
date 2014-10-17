@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tma:home|Door43 (tma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tma|d43-tma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tma/archive/master.zip|d43-tma.zip]]
+
+**Recent Changes**
+{{changes>ns = tma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tma|Ethnologue data]]
+
